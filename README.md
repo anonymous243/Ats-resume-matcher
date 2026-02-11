@@ -94,3 +94,7 @@ Open `frontend/index.html` in your browser.
 - Keyword-based matching (not semantic embeddings)
 
 These were intentionally kept out of scope to focus on core ATS logic.
+
+## License
+This project is licensed under the MIT License.
+
